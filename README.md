@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bharathlakshmi
-- 👀 I’m interested in Data Structures
+- 👀 I’m interested in Data Structures & Algorithms
 - 🌱 I’m currently learning System Design
 - 🔭 I’m looking to collaborate on ML
 - ⚡ Aiming for FAANG!
