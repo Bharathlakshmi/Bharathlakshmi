@@ -1,10 +1,10 @@
 <div align="center">
   <div align="left">
 - 👋 Hi, I’m @Bharathlakshmi <br>
-- 👀 I’m interested in Data Structures & Algorithms 
-- 🌱 I’m currently learning System Design
-- 🔭 I’m looking to collaborate on ML
-- ⚡ Aiming for FAANG!
+- 👀 I’m interested in Data Structures & Algorithms <br>
+- 🌱 I’m currently learning System Design <br>
+- 🔭 I’m looking to collaborate on ML <br>
+- ⚡ Aiming for FAANG! <br>
   </div>
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathlakshmi&theme=radical&show_icons=true&&hide=issues,contribs)
