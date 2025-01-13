@@ -1,7 +1,7 @@
 <div align="center">
   <div align="left">
-- 👋 Hi, I’m @Bharathlakshmi
-- 👀 I’m interested in Data Structures & Algorithms
+- 👋 Hi, I’m @Bharathlakshmi <br>
+- 👀 I’m interested in Data Structures & Algorithms 
 - 🌱 I’m currently learning System Design
 - 🔭 I’m looking to collaborate on ML
 - ⚡ Aiming for FAANG!
