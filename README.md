@@ -1,5 +1,5 @@
 <div align="center">
-  <div>
+  <div align="left">
 - 👋 Hi, I’m @Bharathlakshmi
 - 👀 I’m interested in Data Structures & Algorithms
 - 🌱 I’m currently learning System Design
