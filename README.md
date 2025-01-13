@@ -7,5 +7,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathlakshmi&theme=radical&show_icons=true&&hide=issues,contribs)
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharathlakshmi&theme=dark&show_icons=true&&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharathlakshmi&theme=dark&show_icons=true&&hide=issues) 
 
