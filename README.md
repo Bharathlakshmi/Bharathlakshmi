@@ -4,7 +4,7 @@
 - 👀 I’m interested in Data Structures & Algorithms <br>
 - 🌱 I’m currently learning System Design <br>
 - 🔭 I’m looking to collaborate on ML <br>
-- ⚡ Aiming for FAANG! <br>
+- ⚡ Aiming for FAANG! 
   </div>
 <!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bharathlakshmi&theme=radical&show_icons=true&&hide=issues,contribs)
